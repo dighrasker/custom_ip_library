@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1766815511.482272341, "rt":2.01, "ut":0.13, "st":0.14}}
+{"vcselab":{"timestamp_begin":1766815513.607358584, "rt":1.20, "ut":0.18, "st":0.10}}
+{"link":{"timestamp_begin":1766815514.933831979, "rt":0.73, "ut":0.15, "st":0.09}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1766815511.137421738}
+{"VCS_COMP_START_TIME": 1766815511.137421738}
+{"VCS_COMP_END_TIME": 1766815516.279055727}
+{"VCS_USER_OPTIONS": "-sverilog -full64 -debug_access+all -line ip/arbiter/rtl/arbiter.sv ip/arbiter/test/arbiter_test.sv -o build/arbiter.simv"}
+{"vcs1": {"peak_mem": 312468}}
+{"vcselab": {"peak_mem": 160592}}
